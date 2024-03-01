@@ -1,0 +1,4 @@
+v1.0.1 (02) - 27/02/2021
+IMPROVEMENTS
+   - Feature graphic for F-Droid client
+   - Line breaks in F-Droid description

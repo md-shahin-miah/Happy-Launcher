@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Theme -->
+    <string-array name="set_application_theme_values">
+        <item>light</item>
+        <item>dark</item>
+        <item>none</item>
+    </string-array>
+
+    <!-- Clock format -->
+    <string-array name="set_clock_format_values">
+        <item>none</item>
+        <item>HH:mm</item>
+        <item>h:mm</item>
+        <item>h:mm a</item>
+        <item>analog</item>
+        <item>datetime-short</item>
+        <item>datetime</item>
+        <item>date-short</item>
+        <item>date</item>
+    </string-array>
+
+    <!-- Clock position -->
+    <string-array name="set_clock_position_values">
+        <item>top</item>
+        <item>top-left</item>
+        <item>top-right</item>
+        <item>middle</item>
+        <item>middle-left</item>
+        <item>middle-right</item>
+        <item>bottom</item>
+        <item>bottom-left</item>
+        <item>bottom-right</item>
+    </string-array>
+
+    <!-- Clock size -->
+    <string-array name="set_clock_size_values">
+        <item>small</item>
+        <item>medium</item>
+        <item>large</item>
+    </string-array>
+
+    <!-- Forced orientation -->
+    <string-array name="set_forced_orientation_values">
+        <item>none</item>
+        <item>portrait</item>
+        <item>landscape</item>
+        <item>reverse_landscape</item>
+    </string-array>
+
+</resources>

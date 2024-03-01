@@ -1,0 +1,7 @@
+v3.5.0 (23) - 13/05/2021
+NOUVEAUTÉS
+   - Option pour inverser l'interface (@tuch96)
+   - Nb d'apps du dossier dans l'icône (@xi7)
+   - Section d'aide sur la notification
+CORRECTIONS
+   - Bugs avec la notification (@xi7)

@@ -1,0 +1,4 @@
+v3.0.2 (18) - 17/04/2021
+CORRECTIONS
+   - Favoris parfois dupliqués (essai)
+   - Captures d'écran F-Droid dupliquées (essai)

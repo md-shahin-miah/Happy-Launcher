@@ -1,0 +1,8 @@
+v1.3.0 (06) - 20/03/2021
+NOUVEAUTÉS
+   - Option barre de statut transparente (@xi7)
+   - Option horloge à l'accueil (@mateimm)
+AMÉLIORATIONS
+   - Màj auto des icônes quand le pack change
+CORRECTIONS
+   - Captures d'écran F-Droid dupliquées (essai)

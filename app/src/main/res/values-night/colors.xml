@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Color assignments -->
+    <color name="for_buttons_and_controls">@color/blue_pastel</color>
+    <color name="for_help_titles">@color/blue_pastel</color>
+    <color name="for_menu_highlight_and_dividers">@color/blue_gray</color>
+
+</resources>

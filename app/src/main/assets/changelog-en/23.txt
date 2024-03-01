@@ -1,0 +1,7 @@
+v3.5.0 (23) - 13/05/2021
+NEW THINGS
+   - Reverse interface option (@tuch96)
+   - Folder items number in the icon (@xi7)
+   - Help section about notification
+CORRECTIONS
+   - Bugs with the notification (@xi7)

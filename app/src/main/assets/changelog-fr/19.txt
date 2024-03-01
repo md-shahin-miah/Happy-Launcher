@@ -1,0 +1,10 @@
+v3.1.0 (19) - 23/04/2021
+NOUVEAUTÉS
+   - Dossiers (@xi7)
+AMÉLIORATIONS
+   - Gestion des applications masquées
+CORRECTIONS
+   - Fermeture imprévue du tiroir
+   - Pack d'icônes non lu pendant import
+   - Favoris parfois dupliqués
+   - Captures d'écran F-Droid dupliquées

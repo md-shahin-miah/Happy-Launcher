@@ -1,0 +1,4 @@
+v2.4.0 (12) - 05/04/2021
+NEW THINGS
+   - Export/import settings
+   - Hide applications (@gicofied9)

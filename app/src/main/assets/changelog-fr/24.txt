@@ -1,0 +1,9 @@
+v3.6.0 (24) - 19/05/2021
+NOUVEAUTÉS
+   - Support du notch (@drewski-00h/AeOeAa)
+AMÉLIORATIONS
+   - Meilleur retour visuel (@xi7)
+   - Max 3 lignes pour les noms d'apps (@xi7)
+CORRECTIONS
+   - Barre navigation Android 10+ (@AeOeAa)
+   - Dossier pas fermé correctement (@xi7)

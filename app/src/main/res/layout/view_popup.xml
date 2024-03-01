@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_height="wrap_content"
+    android:layout_width="match_parent"
+    android:orientation="vertical">
+
+    <RelativeLayout
+        android:id="@+id/popup_header"
+        android:layout_height="32dp"
+        android:layout_width="match_parent"
+        android:background="@color/for_popup_background">
+
+        <TextView
+            android:id="@+id/popup_title"
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:layout_centerInParent="true"
+            android:text="@string/notification_text"
+            android:textColor="@color/for_text_on_overlay"/>
+
+        <TextView
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:layout_alignParentEnd="true"
+            android:paddingHorizontal="@dimen/spacing_very_small"
+            app:drawableStartCompat="@drawable/ic_menu_preferences"
+            tools:ignore="RelativeOverlap"/>
+
+    </RelativeLayout>
+
+    <View
+        android:id="@+id/popup_line1"
+        android:layout_height="1dp"
+        android:layout_width="match_parent"
+        android:background="@color/for_popup_line"/>
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/popup_recycler"
+        android:layout_height="0dp"
+        android:layout_width="match_parent"
+        android:layout_weight="1"
+        android:minHeight="184dp"
+        android:paddingVertical="1dp"
+        android:paddingHorizontal="@dimen/spacing_small"
+        android:background="@color/for_popup_background"
+        tools:layoutManager="GridLayoutManager"
+        tools:spanCount="4"
+        tools:listitem="@layout/view_application"/>
+
+    <View
+        android:id="@+id/popup_line2"
+        android:layout_height="1dp"
+        android:layout_width="match_parent"
+        android:background="@color/for_popup_line"
+        android:visibility="gone"
+        tools:visibility="visible"/>
+
+    <EditText
+        android:id="@+id/search_bar"
+        android:layout_height="32dp"
+        android:layout_width="match_parent"
+        android:paddingHorizontal="@dimen/spacing_normal"
+        android:singleLine="true"
+        android:inputType="textNoSuggestions"
+        android:autofillHints=""
+        android:hint="@string/search_app_hint"
+        android:textColor="@color/for_text_on_overlay"
+        android:textColorHint="@color/for_search_app_hint"
+        android:imeOptions="flagNoExtractUi|actionSearch"
+        android:background="@color/for_popup_background"
+        android:visibility="gone"
+        tools:visibility="visible"/>
+
+</LinearLayout>

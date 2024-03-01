@@ -1,0 +1,5 @@
+v2.1.0 (09) - 23/03/2021
+NOUVEAUTÉS
+   - Notification d'accès rapide (@xi7)
+CORRECTIONS
+   - Mise à jour de la liste depuis l'accueil (@xi7)

@@ -1,0 +1,8 @@
+v2.3.0 (11) - 02/04/2021
+NOUVEAUTÉS
+   - Journal des changements
+   - Texte de notification personnalisable
+AMÉLIORATIONS
+   - Refonte du menu "Paramètres / Aide"
+CORRECTIONS
+   - Menu inaccessible avec trop de favoris

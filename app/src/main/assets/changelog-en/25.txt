@@ -1,0 +1,18 @@
+v4.0.0 (25) - 05/06/2021
+NEW THINGS
+   - Manual sort of favorites (@tuch96)
+   - Custom background color
+   - Option to show app in store (@esdreesh)
+   - Visual feedback on short click (@xi7)
+   - Close button on folders and notification
+   - Option to hide the menu button (@xi7)
+IMPROVEMENTS
+   - Hidden notification icon (@funnyflowerpot)
+   - New menu button (@drewski-00h)
+   - Merge clock settings
+   - Settings reorganization
+   - Help about folders reviewed (@SteveM)
+   - Major internal reorganization
+CORRECTIONS
+   - Long folder names breaks layout (@xi7)
+   - Press back for folders on Android 5 (@xi7)

@@ -1,0 +1,12 @@
+v3.4.0 (22) - 10/05/2021
+NOUVEAUTÉS
+   - Retour visuel lors d'un clic long (@xi7)
+   - Option mode immersif (@KaiFujiro)
+AMÉLIORATIONS
+   - Réduire l'écart icône-texte (@xi7/AeOeAa)
+   - Dossiers premiers dans les favoris (@xi7)
+   - Garder les noms des dossiers (@AeOeAa)
+   - Bouton actualiser plus bas dans le menu
+   - Organiseur de dossiers revu
+CORRECTIONS
+   - Dossier bloqué sur Android 5 (@xi7)

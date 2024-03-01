@@ -1,0 +1,8 @@
+v3.3.0 (21) - 04/05/2021
+IMPROVEMENTS
+   - Notification now opens favorites (@xi7)
+   - Folders at the beginning of the list (@xi7)
+   - Help section reviewed (@AeOeAa)
+   - Several internal simplifications
+CORRECTIONS
+   - Bugs when renaming folders (@AeOeAa)

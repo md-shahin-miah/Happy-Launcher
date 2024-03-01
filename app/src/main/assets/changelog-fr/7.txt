@@ -1,0 +1,3 @@
+v1.3.1 (07) - 20/03/2021
+CORRECTIONS
+   - Crash en ouvrant une appli désinstallée

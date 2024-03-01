@@ -1,0 +1,8 @@
+v2.3.0 (11) - 02/04/2021
+NEW THINGS
+   - Changelog
+   - Notification text can be customized
+IMPROVEMENTS
+   - Redesign of the "Settings / Help" menu
+CORRECTIONS
+   - Menu unreachable with too many favorites

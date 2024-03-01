@@ -1,0 +1,6 @@
+v3.2.0 (20) - 26/04/2021
+NEW THINGS
+   - Option to hide apps names (@tuch96)
+   - 12h clock format (@drewski-00h)
+IMPROVEMENTS
+   - Better "no favorites yet" message

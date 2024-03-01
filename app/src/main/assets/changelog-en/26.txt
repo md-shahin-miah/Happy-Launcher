@@ -1,0 +1,3 @@
+v4.0.1 (26) - 06/06/2021
+CORRECTIONS
+   - Menu crash if opened from folder (@xi7)

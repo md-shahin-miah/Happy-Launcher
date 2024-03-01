@@ -1,0 +1,4 @@
+v2.3.0 (12) - 05/04/2021
+NOUVEAUTÉS
+   - Export/import des paramètres
+   - Masquer des applications (@gicofied9)

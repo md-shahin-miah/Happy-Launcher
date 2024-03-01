@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <!-- Application theme -->
+    <style name="AppTheme" parent="Theme.AppCompat.DayNight.DarkActionBar">
+
+        <!-- Main colors -->
+        <item name="colorPrimary">@color/for_action_bar</item>
+        <item name="colorPrimaryDark">@color/for_system_bars</item>
+        <item name="colorAccent">@color/for_buttons_and_controls</item>
+
+        <!-- Do not use notch in landscape mode as it cause a display glitch -->
+        <item name="android:windowLayoutInDisplayCutoutMode" tools:targetApi="o_mr1">never</item>
+
+    </style>
+
+</resources>

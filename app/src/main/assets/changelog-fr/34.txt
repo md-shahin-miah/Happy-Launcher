@@ -1,0 +1,3 @@
+v4.6.1 (34) - 24/07/2021
+CORRECTIONS
+   - Soucis d'encodage avec les emojis (@xi7)

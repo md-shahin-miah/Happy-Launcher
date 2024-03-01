@@ -1,0 +1,8 @@
+v3.3.0 (21) - 04/05/2021
+AMÉLIORATIONS
+   - Notification ouvre les favoris (@xi7)
+   - Dossiers en haut de la liste (@xi7)
+   - Section d'aide revue (@AeOeAa)
+   - Plusieurs simplifications internes
+CORRECTIONS
+   - Bugs en renommant un dossier (@AeOeAa)

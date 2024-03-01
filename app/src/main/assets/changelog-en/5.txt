@@ -1,0 +1,9 @@
+v1.2.0 (05) - 16/03/2021
+NEW THINGS
+   - Long clic opens app settings (@xi7)
+IMPROVEMENTS
+   - "About" and "Help" texts reviewed
+   - Minor code optimizations
+CORRECTIONS
+   - Bug with apps from same package (@xi7)
+   - Duplicate screenshots on F-Droid (try)

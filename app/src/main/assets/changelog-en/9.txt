@@ -1,0 +1,5 @@
+v2.1.0 (09) - 23/03/2021
+NEW THINGS
+   - Quick-access notification (@xi7)
+CORRECTIONS
+   - List update from home screen (@xi7)

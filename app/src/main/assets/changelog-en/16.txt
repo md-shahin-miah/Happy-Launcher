@@ -1,0 +1,9 @@
+v3.0.0 (16) - 16/04/2021
+IMPROVEMENTS
+   - Applications drawer opens even faster
+   - Drawer appearance is simpler (@tuch96)
+   - More elegant menu button (@tuch96)
+   - More elegant export/import buttons
+   - Major internal reorganization
+CORRECTIONS
+   - Force portrait option also in the drawer

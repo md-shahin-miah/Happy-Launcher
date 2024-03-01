@@ -1,0 +1,4 @@
+v2.2.0 (10) - 28/03/2021
+NOUVEAUTÉS
+   - Support des raccourcis web (@johanbove)
+   - Notification masquable si verrouillé

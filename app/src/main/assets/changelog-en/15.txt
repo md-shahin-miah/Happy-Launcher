@@ -1,0 +1,6 @@
+v2.6.0 (15) - 11/04/2021
+NEW THINGS
+   - Option to force portrait mode (@c0bnut)
+IMPROVEMENTS
+   - Display on 5 columns in landscape mode
+   - Section for Display settings

@@ -1,0 +1,9 @@
+v1.2.0 (05) - 16/03/2021
+NOUVEAUTÉS
+   - Clic long ouvre options de l'application (@xi7)
+AMÉLIORATIONS
+   - Textes "À propos" et "Aide" revus
+   - Optimisations de code mineures
+CORRECTIONS
+   - Bugs avec applis d'un même package (@xi7)
+   - Captures d'écran F-Droid dupliquées (essai)

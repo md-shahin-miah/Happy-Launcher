@@ -1,0 +1,3 @@
+v2.5.1 (14) - 09/04/2021
+CORRECTIONS
+   - Possible freeze when creating web shortcut

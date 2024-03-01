@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <SwitchPreference
+        app:key="notification"
+        app:title="@string/set_notification"
+        app:summary="@string/set_notification_help"
+        app:iconSpaceReserved="false"
+        app:defaultValue="false"/>
+
+    <PreferenceCategory
+        app:title="@string/operation_settings_title_interface"
+        app:iconSpaceReserved="false">
+
+        <ListPreference
+            app:key="forced_orientation"
+            app:title="@string/set_forced_orientation"
+            app:iconSpaceReserved="false"
+            app:entries="@array/set_forced_orientation_entries"
+            app:entryValues="@array/set_forced_orientation_values"
+            app:defaultValue="none"
+            app:useSimpleSummaryProvider="true"/>
+
+        <SwitchPreference
+            app:key="always_show_favorites"
+            app:title="@string/set_always_show_favorites"
+            app:iconSpaceReserved="false"
+            app:defaultValue="false"/>
+
+        <SwitchPreference
+            app:key="reverse_interface"
+            app:title="@string/set_reverse_interface"
+            app:summary="@string/set_reverse_interface_help"
+            app:iconSpaceReserved="false"
+            app:defaultValue="false"/>
+
+        <SwitchPreference
+            app:key="immersive_mode"
+            app:title="@string/set_immersive_mode"
+            app:summary="@string/set_immersive_mode_help"
+            app:iconSpaceReserved="false"
+            app:defaultValue="false"/>
+
+        <SwitchPreference
+            app:key="touch_targets"
+            app:title="@string/set_touch_targets"
+            app:summary="@string/set_touch_targets_help"
+            app:iconSpaceReserved="false"
+            app:defaultValue="false"/>
+
+        <SwitchPreference
+            app:key="interactive_clock"
+            app:title="@string/set_interactive_clock"
+            app:summary="@string/set_interactive_clock_help"
+            app:iconSpaceReserved="false"
+            app:defaultValue="false"/>
+
+        <ListPreference
+            app:key="clock_app"
+            app:title="@string/set_clock_app"
+            app:iconSpaceReserved="false"
+            app:dependency="interactive_clock"
+            app:defaultValue="none"
+            app:useSimpleSummaryProvider="true"/>
+
+        <SwitchPreference
+            app:key="hide_menu_button"
+            app:title="@string/set_hide_menu_button"
+            app:summary="@string/set_hide_menu_button_help"
+            app:iconSpaceReserved="false"
+            app:defaultValue="false"/>
+
+        <SwitchPreference
+            app:key="disable_app_drawer"
+            app:title="@string/set_disable_app_drawer"
+            app:iconSpaceReserved="false"
+            app:defaultValue="false"/>
+
+    </PreferenceCategory>
+
+    <PreferenceCategory
+        app:title="@string/operation_settings_title_gestures"
+        app:iconSpaceReserved="false">
+
+        <ListPreference
+            app:key="double_tap"
+            app:title="@string/set_double_tap"
+            app:iconSpaceReserved="false"
+            app:defaultValue="none"
+            app:useSimpleSummaryProvider="true"/>
+
+        <ListPreference
+            app:key="swipe_leftwards"
+            app:title="@string/set_swipe_leftwards"
+            app:iconSpaceReserved="false"
+            app:defaultValue="none"
+            app:useSimpleSummaryProvider="true"/>
+
+        <ListPreference
+            app:key="swipe_rightwards"
+            app:title="@string/set_swipe_rightwards"
+            app:iconSpaceReserved="false"
+            app:defaultValue="none"
+            app:useSimpleSummaryProvider="true"/>
+
+    </PreferenceCategory>
+
+</PreferenceScreen>

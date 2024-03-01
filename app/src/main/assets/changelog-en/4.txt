@@ -1,0 +1,6 @@
+v1.1.0 (04) - 10/03/2021
+NEW THINGS
+   - "Settings / Help" menu
+   - Icon packs support (@porosjp)
+IMPROVEMENTS
+   - "About" text moved with settings

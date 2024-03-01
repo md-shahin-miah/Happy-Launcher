@@ -1,0 +1,6 @@
+v2.5.0 (13) - 09/04/2021
+NEW THINGS
+   - Icons for web shortcuts
+IMPROVEMENTS
+   - Automatic update of the list after import
+   - Screen-based max favorites (@AeOeAa)

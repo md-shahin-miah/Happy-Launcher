@@ -1,0 +1,18 @@
+v4.0.0 (25) - 05/06/2021
+NOUVEAUTÉS
+   - Tri manuel des favoris (@tuch96)
+   - Couleur de fond personnalisable
+   - Option ouvrir dans magasin (@esdreesh)
+   - Retour visuel lors d'un clic court (@xi7)
+   - Bouton Fermer sur dossiers et notification
+   - Option pour cacher le bouton de menu (@xi7)
+AMÉLIORATIONS
+   - Icône notif transparente (@funnyflowerpot)
+   - Nouveau bouton de menu (@drewski-00h)
+   - Fusionner les paramètres d'horloge
+   - Réorganisation des paramètres
+   - Aide dossiers revue (@SteveM)
+   - Réorganisation interne majeure
+CORRECTIONS
+   - Nom de dossier long et disposition (@xi7)
+   - Bouton Retour Android 5 et dossiers (@xi7)

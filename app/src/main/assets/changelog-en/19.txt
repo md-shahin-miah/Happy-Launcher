@@ -1,0 +1,10 @@
+v3.1.0 (19) - 23/04/2021
+NEW THINGS
+   - Folders (@xi7)
+IMPROVEMENTS
+   - Hidden apps management
+CORRECTIONS
+   - Unexpected drawer closure
+   - Icon pack not read during import
+   - Favorites sometimes duplicated
+   - Duplicate screenshots on F-Droid

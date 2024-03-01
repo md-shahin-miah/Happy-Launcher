@@ -1,0 +1,4 @@
+v1.0.1 (02) - 27/02/2021
+AMÉLIORATIONS
+   - Bannière pour le client F-Droid
+   - Sauts de ligne de la description F-Droid

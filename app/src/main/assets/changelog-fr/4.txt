@@ -1,0 +1,6 @@
+v1.1.0 (04) - 10/03/2021
+NOUVEAUTÉS
+   - Menu "Paramètres / Aide"
+   - Support des packs d'icônes (@porosjp)
+AMÉLIORATIONS
+   - "À propos" déplacé avec les paramètres
