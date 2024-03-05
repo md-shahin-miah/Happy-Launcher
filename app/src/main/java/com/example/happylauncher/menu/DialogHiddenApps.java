@@ -26,7 +26,7 @@ public abstract class DialogHiddenApps
 		final ArrayList<Application> applications = new ArrayList<>(ActivityMain.getApplicationsList().getHidden()) ;
 		for(Application application : ActivityMain.getApplicationsList().getApplications(false))
 		{
-			// Never hide the Discreet Launcher icon (as it can be the only access to the menu)
+			// Never hide the Happy Launcher icon (as it can be the only access to the menu)
 			if(application.getApk().equals(context.getPackageName())) continue ;
 			applications.add(application) ;
 		}
